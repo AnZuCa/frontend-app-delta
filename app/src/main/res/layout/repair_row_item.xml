@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/repair_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ID de reparacion"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_my_repairs_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ID de reparacion" />
+
+
+            <TextView
+                android:id="@+id/repair_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Reparacion a realizar"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_my_repairs_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Descripcion" />
+
+
+            <TextView
+                android:id="@+id/repair_mechanic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mecanico encargado"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tv_my_repairs_mechanic_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mecanico" />
+
+            <TextView
+                android:id="@+id/repair_client"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cliente"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tv_my_repairs_client_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cliente" />
+            <TextView
+                android:id="@+id/repair_vihicle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vehiculo"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tv_my_repairs_vehicle_brand"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vehiculo" />
+            <TextView
+                android:id="@+id/repair_estado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Estado de la reparacion"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tv_my_repairs_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Estado" />
+        </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535218298146",
+    "project_id": "delta-workshop-una",
+    "storage_bucket": "delta-workshop-una.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535218298146:android:f8b57532b7f3748344997b",
+        "android_client_info": {
+          "package_name": "una.delta.frontenddelta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535218298146-kci9rg727rp60ga9igkp42c9g3p7aca7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDMOA3wXie-I-9pHI7PXmBU95gE8mX74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535218298146-kci9rg727rp60ga9igkp42c9g3p7aca7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

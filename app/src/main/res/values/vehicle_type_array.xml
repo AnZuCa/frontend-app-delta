@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vehicle_type_array">
+        <item>Sedan</item>
+        <item>Station Wagon</item>
+        <item>Hatchback</item>
+        <item>Pickup 4x2</item>
+        <item>Pickup 4x4</item>
+        <item>Todo terreno 4x2</item>
+        <item>Todo terreno 4x4</item>
+        <item>Casa rodante</item>
+    </string-array>
+</resources>

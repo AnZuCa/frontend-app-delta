@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Delta Workshop</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!-- Profile fragment -->
+    <string name="profile_tv_create_date"></string>
+    <string name="profile_tv_id"></string>
+    <string name="profile_tv_name"></string>
+    <string name="profile_tv_last_names"></string>
+    <string name="profile_tv_mobile_number"></string>
+    <string name="profile_tv_address"></string>
+    <string name="profile_tv_email_address"></string>
+
+    <!-- Add client fragment -->
+    <string name="add_client_tv_id"></string>
+    <string name="add_client_tv_name"></string>
+    <string name="add_client_tv_last_names"></string>
+    <string name="add_client_tv_mobile_number"></string>
+    <string name="add_client_tv_address"></string>
+    <string name="add_client_tv_email_address"></string>
+
+    <!-- Add vehicle fragment -->
+    <string name="add_vehicle_tv_plate_number">Número de placa</string>
+    <string name="add_vehicle_tv_vin_number">Número de VIN</string>
+    <string name="add_vehicle_tv_make">Marca del vehículo</string>
+    <string name="add_vehicle_tv_engine_series_number">Serie del motor</string>
+    <string name="add_vehicle_tv_vehicle_type">Tipo de vehículo</string>
+    <string name="add_vehicle_tv_engine_type">Tipo de motor</string>
+    <string name="add_vehicle_tv_photos">Fotografías del vehículo</string>
+    <string name="add_vehicle_et_plate_number">Digite el número de placa</string>
+    <string name="add_vehicle_et_vin_number">Digite el número de VIN</string>
+    <string name="add_vehicle_et_make">Digite la marca del vehículo</string>
+    <string name="add_vehicle_et_engine_series_number">Digte la serie del motor</string>
+    <string name="add_vehicle_et_engine_type">Digite el tipo de motor</string>
+    <string name="add_vehicle_ti_vehicle_type">Fotografías del vehículo</string>
+    <string name="add_vehicle_btn_photos">Subir fotografías</string>
+
+    <!-- Add services fragment -->
+    <string name="add_services_tv_new_service">Seleccionar servicios</string>
+    <string name="add_services_tv_list_of_services">Servicios seleccionados</string>
+    <string name="add_services_tv_details">Detalles adicionales de los servicios</string>
+    <string name="add_services_ed_details">Digite detalladamente los servicios a realizar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Search vehicle fragment -->
+    <string name="vehicle_plate_number_title">Placa del vehículo</string>
+    <string name="vehicle_vin_number_title">Número de VIN</string>
+    <string name="vehicle_engine_number_title">Número de motor</string>
+    <string name="vehicle_brand_title">Marca del vehículo</string>
+    <string name="vehicle_type_title">Tipo de vehículo</string>
+    <string name="vehicle_engine_type_title">Tipo de motor</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email / Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_logout">Logout</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >=5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- Validate vehicle input strings -->
+    <string name="invalid_plate_number">Número de placa requerido</string>
+    <string name="invalid_vin_number">Número de VIN requerido</string>
+    <string name="invalid_brand">Marca requerida</string>
+    <string name="invalid_engine_number">Número de motor requerido</string>
+    <string name="invalid_engine_type">Tipo de motor requerido</string>
+
+    <!-- Validate client input strings -->
+    <string name="invalid_id_card">Cédula requerida</string>
+    <string name="invalid_name">Nombre requerido</string>
+    <string name="invalid_last_name">Apellidos requeridos</string>
+    <string name="invalid_phone_number">Teléfono requerido</string>
+    <string name="invalid_address">Dirección requerida</string>
+    <string name="invalid_email">Correo inválido</string>
+</resources>
